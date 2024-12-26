@@ -1,1 +1,1 @@
-[[PNG](Securing SCADA Systems A Protocol Based Intrusion Detection Approach with Shapley Analysis-1.png)](https://github.com/99berk/Securing-SCADA-Systems-A-Protocol-Based-Intrusion-Detection-Approach-with-Shapley-Analysis/blob/main/Securing%20SCADA%20Systems%20A%20Protocol%20Based%20Intrusion%20Detection%20Approach%20with%20Shapley%20Analysis-1.png)
+![Securing SCADA Systems A Protocol Based Intrusion Detection Approach with Shapley Analysis-1](https://github.com/user-attachments/assets/292a6c1f-3e77-45d4-ae38-c8a169bd57bb)
