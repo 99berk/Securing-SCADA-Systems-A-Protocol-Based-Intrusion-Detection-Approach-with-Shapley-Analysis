@@ -91,6 +91,6 @@ if __name__ == "__main__":
         model_name = type(model).__name__
         grid_search = GridSearchCV(model, params, cv=5)
         trained_model, y_pred = evaluate_model(X_train, X_test, y_train, y_test, grid_search)
-        plot_confusion_matrix_heatmap(trained_model, X_test, y_test, model_name)
+        # plot_confusion_matrix_heatmap(trained_model, X_test, y_test, model_name)
         # plot_precision_recall_curve(trained_model, X_test, y_test, model_name)
-        # plot_shap_values(trained_model, X_test, selected_features, model_name)
+        plot_shap_values(trained_model, X_test, selected_features, model_name)
